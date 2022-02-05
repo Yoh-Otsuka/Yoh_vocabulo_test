@@ -1,0 +1,18 @@
+{
+  "title" :
+          [
+            {
+              "Delicious_in_Dungeon" : "Delicious in Dungeon",
+              "One_Punch_Man" : "ONE PUNCH MAN",
+              "The_Emperor_and_I" : "The emperor and I",
+              "School_Judgment" : "School Judgment"
+            }
+          ],
+  "icon_title" :
+          [
+            "Delicious_in_Dungeon",
+            "One_Punch_Man",
+            "The_Emperor_and_I",
+            "School_Judgment"
+          ]
+}

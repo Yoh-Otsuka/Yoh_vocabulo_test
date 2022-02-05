@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "571349956598",
+    "project_id": "mangavoca-mobile",
+    "storage_bucket": "mangavoca-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571349956598:android:73b465a2a7ab65a84d79d7",
+        "android_client_info": {
+          "package_name": "com.imp.mangavocamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571349956598-h59ipqrjc40ogbn2pm5b7l1spkbtsvvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsx-BwmHwq5-h3FSviuv2W0apWgZDQxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571349956598-h59ipqrjc40ogbn2pm5b7l1spkbtsvvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571349956598:android:f8529dfc0386f20b4d79d7",
+        "android_client_info": {
+          "package_name": "com.shozemi.mangavoca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571349956598-h59ipqrjc40ogbn2pm5b7l1spkbtsvvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsx-BwmHwq5-h3FSviuv2W0apWgZDQxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571349956598-h59ipqrjc40ogbn2pm5b7l1spkbtsvvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
